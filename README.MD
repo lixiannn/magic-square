@@ -2,7 +2,7 @@
 
 This project calculates the minimum cost of transforming a 3x3 matrix into a magic square.
 
-A magic square is an nxn matrix of distinct positive integers from 1to n^2 where the sum of any row, column,
+A magic square is an nxn matrix of distinct positive integers from 1 to n^2 where the sum of any row, column,
 or diagonal of length n is always equal to the same number: the magic constant.
 
 The magic constant can be obtained by this formula: (n/2)((n^2+1)). In this case, n = 3 will give us
